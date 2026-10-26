@@ -1,4 +1,4 @@
-# OFFCORSS | Catálogo de productos 
+ Catálogo de productos 
 
 Se crea un aplicación web para una prueba técnica la aplicación permite autenticarse y consultar el catálogo de la tienda virtual OFFCORSS: listado con búsqueda, paginación y exportación a CSV, ficha de producto imprimible y edición del perfil de usuario.
 
